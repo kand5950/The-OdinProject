@@ -10,3 +10,20 @@
 
 - [x] Git basics
 - [x] GitHub
+
+### 2\. Font-end basics
+
+- [] HTML foundation
+
+  - [] Headings
+  - [] Paragraphs
+  - [] Text formatings
+  - [] Anchors and hyperlinks
+  - [] Lists
+  - [] Tables
+  - [] Classes, IDs
+  - [] Linking resourses
+  - [] Using CSS, Js in HTML
+  - [] Images
+  - [] Forms and input elements
+  - [] Div element, sectioning elements, media elements, iframes
