@@ -18,7 +18,7 @@
   - [x] Headings
   - [x] Paragraphs
   - [x] Text formatings
-  - [] Anchors and hyperlinks
+  - [x] Anchors and hyperlinks
   - [] Lists
   - [] Tables
   - [] Classes, IDs
