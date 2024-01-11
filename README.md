@@ -15,9 +15,9 @@
 
 - [] HTML foundation
 
-  - [] Headings
-  - [] Paragraphs
-  - [] Text formatings
+  - [x] Headings
+  - [x] Paragraphs
+  - [x] Text formatings
   - [] Anchors and hyperlinks
   - [] Lists
   - [] Tables
