@@ -19,7 +19,7 @@
   - [x] Paragraphs
   - [x] Text formatings
   - [x] Anchors and hyperlinks
-  - [] Lists
+  - [x] Lists
   - [] Tables
   - [] Classes, IDs
   - [] Linking resourses
