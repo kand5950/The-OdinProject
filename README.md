@@ -20,7 +20,7 @@
   - [x] Text formatings
   - [x] Anchors and hyperlinks
   - [x] Lists
-  - [] Tables
+  - [x] Tables
   - [] Classes, IDs
   - [] Linking resourses
   - [] Using CSS, Js in HTML
