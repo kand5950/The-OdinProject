@@ -21,7 +21,7 @@
   - [x] Anchors and hyperlinks
   - [x] Lists
   - [x] Tables
-  - [] Classes, IDs
+  - [x] Classes, IDs
   - [] Linking resourses
   - [] Using CSS, Js in HTML
   - [] Images
