@@ -22,7 +22,7 @@
   - [x] Lists
   - [x] Tables
   - [x] Classes, IDs
-  - [] Linking resourses
+  - [x] Linking resourses
   - [] Using CSS, Js in HTML
   - [] Images
   - [] Forms and input elements
