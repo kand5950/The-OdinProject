@@ -23,7 +23,7 @@
   - [x] Tables
   - [x] Classes, IDs
   - [x] Linking resourses
-  - [] Using CSS, Js in HTML
+  - [x] Using CSS, Js in HTML
   - [] Images
   - [] Forms and input elements
   - [] Div element, sectioning elements, media elements, iframes
