@@ -24,6 +24,6 @@
   - [x] Classes, IDs
   - [x] Linking resourses
   - [x] Using CSS, Js in HTML
-  - [] Images
+  - [x] Images
   - [] Forms and input elements
   - [] Div element, sectioning elements, media elements, iframes
