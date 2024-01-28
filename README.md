@@ -16,3 +16,6 @@
 - [] HTML foundation
 
   - [x] Introduction to HTML and CSS
+  - [x] Elements and Tags
+  - [x] HTML Boilerplate
+  - [x] Working with Text
