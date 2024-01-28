@@ -19,3 +19,7 @@
   - [x] Elements and Tags
   - [x] HTML Boilerplate
   - [x] Working with Text
+  - [] Lists
+  - [] Links and Images
+  - [] Commit Messages
+  - [] Project: Recipes
