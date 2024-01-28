@@ -15,15 +15,4 @@
 
 - [] HTML foundation
 
-  - [x] Headings
-  - [x] Paragraphs
-  - [x] Text formatings
-  - [x] Anchors and hyperlinks
-  - [x] Lists
-  - [x] Tables
-  - [x] Classes, IDs
-  - [x] Linking resourses
-  - [x] Using CSS, Js in HTML
-  - [x] Images
-  - [] Forms and input elements
-  - [] Div element, sectioning elements, media elements, iframes
+  - [x] Introduction to HTML and CSS
