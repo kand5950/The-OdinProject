@@ -20,6 +20,6 @@
   - [x] HTML Boilerplate
   - [x] Working with Text
   - [x] Lists
-  - [] Links and Images
+  - [x] Links and Images
   - [] Commit Messages
   - [] Project: Recipes
