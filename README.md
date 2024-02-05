@@ -21,5 +21,5 @@
   - [x] Working with Text
   - [x] Lists
   - [x] Links and Images
-  - [] Commit Messages
+  - [x] Commit Messages
   - [] Project: Recipes
